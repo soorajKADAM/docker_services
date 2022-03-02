@@ -1,0 +1,12 @@
+{
+  "name": "products2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongodb.js",
+  "scripts": {
+    "start": "node mongodb.js",
+    "dev": "nodemon mongodb.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
